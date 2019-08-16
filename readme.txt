@@ -16,7 +16,7 @@ Git
 \f1\b \cf4 \strokec4 is
 \f0\b0 \cf2 \strokec2  free software distributed under the GPL.\
 Git has a mutable index called stage.\
-Git tracks changes.\
+Git tracks changes of files.\
 \pard\pardeftab720\sl360\partightenfactor0
 \cf5 \cb6 \outl0\strokewidth0 \
 }
